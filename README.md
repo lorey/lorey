@@ -1,8 +1,10 @@
 ### Hi, I'm Karl 👋
 
-I'm a founder, technologist, and VC pushing automation through AI. 
-My focus is VC, ML, Big Data, Scraping, and Social Network Analysis. 
-Previosly I co-founded First Momentum and did research at KIT Karlsruhe.
+I'm a founder, technologist, and investor pushing automation through AI. 
+My focus is ML, Big Data, Scraping, Social Network Analysis and Venture Capital.
+
+I the past, I've co-founded a venture capital fund
+and predicted personality with online behavior during my time at KIT, Karlsruhe.
 
 My website is at [karllorey.com](https://karllorey.com) 
 and my resumé is on GitHub at [lorey/resume](https://github.com/lorey/resume).
